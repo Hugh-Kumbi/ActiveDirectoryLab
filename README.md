@@ -22,9 +22,8 @@ Welcome to the Active Directory Home Lab Environment project! This repository ai
 Creating Users With PowerShell: <br/>
 <img src="https://i.imgur.com/lLTg2Ri.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-</p>
 
-<!--
+ <!--
  ```diff
 - text in red
 + text in green
